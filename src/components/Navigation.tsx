@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { MenuItem } from '../types';
 import { menuItems } from '../data/menuItems';
 import { getIcon } from './icons';
 import { cn } from '../utils/cn';

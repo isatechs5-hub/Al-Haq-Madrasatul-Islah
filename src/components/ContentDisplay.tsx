@@ -2,7 +2,6 @@ import React from 'react';
 import { ContentItem } from '../types';
 import { contentData } from '../data/content';
 import { coursesData, admissionData, donationData, countrySites } from '../data/content';
-import { cn } from '../utils/cn';
 
 interface ContentDisplayProps {
   contentId: string | null;
